@@ -4,8 +4,6 @@
 
 <img src="./assets/unforeseen-logo.png" alt="Unforeseen Consequences Logo" width="520" />
 
-# Unforeseen Consequences
-
 _"The right man in the wrong place can make all the difference in the world."_
 
 <br/>
